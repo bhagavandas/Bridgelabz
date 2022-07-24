@@ -4,7 +4,7 @@ public class EmpPageBuilderUC5 {
 	static final int IS_FULLTIME = 1;
 	static final int IS_PART_TIME = 2;
 	static final int EMP_RATE_PER_HR = 20;
-	static final int No_of_Working_Days = 20;
+	static final int No_of_Working_Days = 2;
 	static final int Max_Hrs_In_Month = 100;
 
 	public static void main(String[] args) {
